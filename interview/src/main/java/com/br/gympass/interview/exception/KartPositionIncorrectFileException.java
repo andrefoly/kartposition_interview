@@ -8,6 +8,11 @@ package com.br.gympass.interview.exception;
 
 public class KartPositionIncorrectFileException extends Exception {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public KartPositionIncorrectFileException() {
 		super();
 		// TODO Auto-generated constructor stub
